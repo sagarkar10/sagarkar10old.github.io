@@ -880,5 +880,9 @@ footer a:hover {
 @media only screen and (max-width: 479px) { }
 
 /* added by sagar kar  for the navs in default */
-nav ul { color: #2879d0; font-size: 2em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
+nav ul { color: #000000; font-size: 2em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li{ display: inline; margin-right: 20px; }
+/* posts part*/
+
+ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
+ul.posts li { list-style: none; }
