@@ -29,12 +29,3 @@ title: Sagar's Blog
 
 <p>Having trouble with Pages? Check out our <a href="https://help.github.com/pages">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
 </section>
-
-<h1>{{ page.title }}</h1>
-<ul class="posts">
-
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-  {% endfor %}
-    
-</ul>
