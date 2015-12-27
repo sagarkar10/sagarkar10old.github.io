@@ -888,7 +888,7 @@ footer a:hover {
     list-style: none;
     font-weight: normal;
 }
-.inner nav ul a :hover {
+.inner nav ul a:hover {
     color: #FFF5EE;
     font-weight: bold;
 }
