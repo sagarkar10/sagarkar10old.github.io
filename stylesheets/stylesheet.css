@@ -884,5 +884,5 @@ nav ul { color: #000000; font-size: 2em; font-family: 'Helvetica', 'Arial', 'San
 nav ul li{ display: inline; margin-right: 20px; }
 /* posts part*/
 
-ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
+ul.posts { margin: 20px auto 40px; font-size: 1em; }
 ul.posts li { list-style: none; }
