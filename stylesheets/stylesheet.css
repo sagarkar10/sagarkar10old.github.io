@@ -880,7 +880,14 @@ footer a:hover {
 @media only screen and (max-width: 479px) { }
 
 /* added by sagar kar  for the navs in default */
-.inner nav ul a { color: blue ; font-size: 2em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
+.inner nav ul a {
+    color: #B0E0E6;
+    font-size: 1.5em;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    padding: 0px;
+    list-style: none;
+    font-weight: normal;
+}
 .inner nav ul li{ display: inline; margin-right: 20px; }
 /* posts part*/
 
