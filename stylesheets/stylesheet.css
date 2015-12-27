@@ -888,6 +888,10 @@ footer a:hover {
     list-style: none;
     font-weight: normal;
 }
+.inner nav ul a :hover {
+    color: #FFF5EE;
+    font-weight: bold;
+}
 .inner nav ul li{ display: inline; margin-right: 20px; }
 /* posts part*/
 
